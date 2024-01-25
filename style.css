@@ -1,0 +1,15 @@
+body{
+    display: flex;
+}
+
+.left{
+    background-color: yellow;
+    width: 30vw;
+    height: 100vh;
+}
+
+.right{
+    background-color: aqua;
+    width: 70vw;
+    height: 100vh;
+}
